@@ -15,11 +15,11 @@ sidebar:
   email: j.estrada.developer@gmail.com
   phone:
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: www.linkedin.com/in/jose-maria-estrada-madera/
+  github: github.com/jestradadeveloper
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@ItriMakena'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -43,27 +43,27 @@ sidebar:
 
     - item: Time Management
       link: # dejar en blanco
-    
+      
     - item: Problem Solving
-      link: # dejar en blanco
-
-    - item: Adaptability
-      link: # dejar en blanco
-
+      link: # dejar en blanco 
+      
     - item: Willingness to learn
       link: # dejar en blanco
+      
+    - item: Adaptability
+      link: # dejar en blanco       
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a computer systems engineer with 4 years of experience in website development mostly from the hotel marketing industry.  Half of my experience is developing websites with wordpress and the other half maintaining and developing pages for hotels with the Ruby on Rails Framework. Currently I live in Puerto Vallarta, Mexico and  I like cooking a lot because I find it very relaxing. I also go to the gym regularly. I like to swim and go out on weekends to explore hidden places in the mountains.I like the discipline, and my greatest quality is that I am very persistent.
+     I am a computer systems engineer with 4 years of experience in website development mostly from the hotel marketing industry.  Half of my experience is developing websites with wordpress and the other half maintaining and developing pages for hotels with the Ruby on Rails Framework. Currently I live in Puerto Vallarta, Mexico and  I like cooking a lot because I find it very relaxing. I also go to the gym regularly. I like to swim and go out on weekends to explore hidden places in the mountains.I like the discipline, and my greatest quality is that I am very persistent.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Systems Engineering
-    university: Instituto Tecnologico de Tepic
-    time: 2011 Aug - 2017
+  - degree: Ingenieria en Sistemas Computaciones
+    university:  Instituto Tecnologico de Tepic
+    time: 2011 Aug - 2017 Aug
     details: |
 
 
@@ -72,28 +72,25 @@ educationcomplete:
 experiences:
   - role: Ruby On Rails Web Developer
     time: 2019 - Present
-    company: Villagroup, Loreto BC
+    company: Villagroup, Puerto Vallarta
     details: |
-      My position was as a ruby ​​on rails web defeater. My experience working for
-      the Villagroup hotel chain in Puerto Vallarta has consisted in the 
-      administration and deployment of websites for hotels that are developed 
-      in Ruby on Rails. I am part of a small hotel marketing team in Puerto Vallarta
-      and as new needs arise related to the website, adjustments, redesigns and 
-      additions, I must make sure that these applications are in production
-      using Amazon Web Services( EC2, S3, Route 53). 
-      I have also had to consume APIs that are specialy designed to feed the room 
-      rates for the hotels that I am responsible. Here I have also been fullstack
-      since my tasks are both in frontend and backend, plus the administration of 
-      the infrastructure in Amazon. These are some of the activities I do:
-        
-        - Redesign or development of new websites for hotels
+      My position was as a ruby on rails web developer. My experience working for the 
+      Villagroup hotel chain in Puerto Vallarta has consisted in the administration and deployment
+      of websites for hotels that are developed in Ruby on Rails. I am part of a small hotel 
+      marketing team in Puerto Vallarta and as new needs arise related to the website,
+      adjustments, redesigns and additions, I must make sure that these applications are in
+      production using Amazon Web Services( EC2, S3, Route 53).
+      I have also had to consume APIs that are specially designed to feed the room 
+      rates for the hotels that I am responsible for. Here I have also been fullstack
+      the infrastructure in Amazon. These are some of the activities I do.
+      
+        - Redesign and development of new websites for hotels
         - UX enhancement design
         - Data analysis for site improvement
-        - Tests AB
-        - SEO Tecnical Performance analysis 
-        - Database Administration on MySql
-        - Deployments on EC2 Amazon with Nginx and Passenger
-
+        - SEO Technical Performance analysis
+        - Database Administration on MySql and PostgresSQL
+        - Deployments on EC2 Amazon with Nginx and Passenger or Heroku
+        - AB Testing
 
   - role: Fullstack Web Developer
     time: 2017 - 2019
@@ -103,13 +100,13 @@ experiences:
       initially doing several projects focused on the tourism sector, mainly for
       the design, development and deployment of hotel websites, convention centers 
       and the tourist destination of Puerto Vallarta.
-      My functions were as a fullstack web developer since while we developed 
-      the entiry process of the creation of the websites using php for wordpress, we 
-      also had to implement everything necessary in the server infrastructure 
-      where these sites should be hosted through the aws services of amazon. 
-      Mostly my experience was developing websites with wordpress but there 
-      was a project for which we worked for a major hotel chain in the 
-      Caribbean in which we made a site using Laravel.
+      My functions were as a full stack web developer since while we developed
+      the entire process of the creation of the websites using php for wordpress, we
+      also had to implement everything necessary in the server infrastructure
+      where these sites should be hosted through the aws services of amazon.
+      Mostly my experience was developing websites with wordpress but there
+      was a project on we worked for a big hotel reservations chain in the Caribbean
+      in which we made the website using Laravel.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -127,13 +124,16 @@ skills:
     - name: Wordpress
       level: 80%
 
+    - name: Next Js
+      level: 60%
+
+    - name: React
+      level: 60%
+
     - name: Javascript
       level: 80%
 
-    - name: Next JS
-      level: 60%
-
-    - name: Ruby
+    - name: Ruby on Rails
       level: 60%
 
 # NO MODIFICAR
