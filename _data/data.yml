@@ -1,89 +1,84 @@
-#
-# Tenga en cuenta que al modificar este archivo, el mínimo error en la sintáxis puede generar errores
-#
-
 sidebar:
-  about: False # NO MODIFICAR
-  education: False # NO MODIFICAR
-
-  # Profile information
-  name: Jose Maria Estrada Madera # Nombre completo
-  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
-  avatar: escudo.png # No modificar
-
-  # Actualiza tus datos de contacto
+  about: false
+  education: false
+  name: Jose Maria Estrada Madera
+  tagline: Ruby on Rails Web Developer
+  avatar: escudo.png
   email: j.estrada.developer@gmail.com
-  phone:
-  website: # No agregar http://
+  phone: null
+  website: null
   linkedin: www.linkedin.com/in/jose-maria-estrada-madera/
   github: github.com/jestradadeveloper
-  gitlab:
-  bitbucket:
+  gitlab: null
+  bitbucket: null
   twitter: '@ItriMakena'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-
-  # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
+  stack-overflow: null
+  codewars: null
+  goodreads: null
   languages:
     - idiom: English
-      level: Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
+      level: Proficient
     - idiom: Spanish
-      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-
-  # Registra aquí tus soft skills. Agrega o elimina según sea necesario
+      level: Native
   interests:
     - item: Communication
-      link: # dejar en blanco
-
+      link: null
     - item: Team Work
-      link: # dejar en blanco
-
+      link: null
     - item: Time Management
-      link: # dejar en blanco
-      
+      link: null
     - item: Problem Solving
-      link: # dejar en blanco 
-      
+      link: null
     - item: Willingness to learn
-      link: # dejar en blanco
-      
+      link: null
     - item: Adaptability
-      link: # dejar en blanco       
-
-# Registra aquí un resumen de tu perfil
+      link: null
 career-profile:
-  title: About Me # NO MODIFICAR
-  summary: |
-     I am a computer systems engineer with 4 years of experience in website development mostly from the hotel marketing industry.  Half of my experience is developing websites with wordpress and the other half maintaining and developing pages for hotels with the Ruby on Rails Framework. Currently I live in Puerto Vallarta, Mexico and  I like cooking a lot because I find it very relaxing. I also go to the gym regularly. I like to swim and go out on weekends to explore hidden places in the mountains.I like the discipline, and my greatest quality is that I am very persistent.
-
-# Registra aquí tus estudios. Agrega o elimina según sea necesario
+  title: About Me
+  summary: >
+    I am a computer systems engineer with 4 years of experience in website
+    development mostly from the hotel marketing industry.  Half of my experience
+    is developing websites with wordpress and the other half maintaining and
+    developing pages for hotels with the Ruby on Rails Framework. Currently I
+    live in Puerto Vallarta, Mexico and  I like cooking a lot because I find it
+    very relaxing. I also go to the gym regularly. I like to swim and go out on
+    weekends to explore hidden places in the mountains.I like the discipline,
+    and my greatest quality is that I am very persistent.
 educationcomplete:
   - degree: Ingenieria en Sistemas Computaciones
-    university:  Instituto Tecnologico de Tepic
+    university: Instituto Tecnologico de Tepic
     time: 2011 Aug - 2017 Aug
-    details: |
-
-
-
-# Registra aquí tu experiencia. Agrega o elimina según sea necesario
+    details: ''
 experiences:
   - role: Ruby On Rails Web Developer
     time: 2019 - Present
-    company: Villagroup, Puerto Vallarta
-    details: |
-      My position was as a ruby on rails web developer. My experience working for the 
-      Villagroup hotel chain in Puerto Vallarta has consisted in the administration and deployment
-      of websites for hotels that are developed in Ruby on Rails. I am part of a small hotel 
-      marketing team in Puerto Vallarta and as new needs arise related to the website,
-      adjustments, redesigns and additions, I must make sure that these applications are in
+    company: 'Villagroup, Puerto Vallarta'
+    details: >
+      My position was as a ruby on rails web developer. My experience working
+      for the 
+
+      Villagroup hotel chain in Puerto Vallarta has consisted in the
+      administration and deployment
+
+      of websites for hotels that are developed in Ruby on Rails. I am part of a
+      small hotel 
+
+      marketing team in Puerto Vallarta and as new needs arise related to the
+      website,
+
+      adjustments, redesigns and additions, I must make sure that these
+      applications are in
+
       production using Amazon Web Services( EC2, S3, Route 53).
-      I have also had to consume APIs that are specially designed to feed the room 
-      rates for the hotels that I am responsible for. Here I have also been fullstack
+
+      I have also had to consume APIs that are specially designed to feed the
+      room 
+
+      rates for the hotels that I am responsible for. Here I have also been
+      fullstack
+
       the infrastructure in Amazon. These are some of the activities I do.
-      
+
         - Redesign and development of new websites for hotels
         - UX enhancement design
         - Data analysis for site improvement
@@ -91,51 +86,48 @@ experiences:
         - Database Administration on MySql and PostgresSQL
         - Deployments on EC2 Amazon with Nginx and Passenger or Heroku
         - AB Testing
-
   - role: Fullstack Web Developer
     time: 2017 - 2019
-    company: OH Travel Marketing, Puerto Vallarta
-    details: |
+    company: 'OH Travel Marketing, Puerto Vallarta'
+    details: >
       I worked for oh marketing for 2 years where I was a web developer, 
+
       initially doing several projects focused on the tourism sector, mainly for
-      the design, development and deployment of hotel websites, convention centers 
+
+      the design, development and deployment of hotel websites, convention
+      centers 
+
       and the tourist destination of Puerto Vallarta.
+
       My functions were as a full stack web developer since while we developed
-      the entire process of the creation of the websites using php for wordpress, we
+
+      the entire process of the creation of the websites using php for
+      wordpress, we
+
       also had to implement everything necessary in the server infrastructure
+
       where these sites should be hosted through the aws services of amazon.
+
       Mostly my experience was developing websites with wordpress but there
-      was a project on we worked for a big hotel reservations chain in the Caribbean
+
+      was a project on we worked for a big hotel reservations chain in the
+      Caribbean
+
       in which we made the website using Laravel.
-
-# Registra aquí tus habilidades técnicas, para level utiliza:
-# 20% para Novice
-# 40% para Advanced beginner
-# 60% para Competent
-# 80% para Proficient
-# 100% para Expert
 skills:
-  title: Technical Skills # NO MODIFICAR
-
+  title: Technical Skills
   toolset:
     - name: Python
       level: 40%
-
     - name: Wordpress
       level: 80%
-
     - name: Next Js
       level: 60%
-
     - name: React
       level: 60%
-
     - name: Javascript
       level: 80%
-
     - name: Ruby on Rails
       level: 60%
-
-# NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!
