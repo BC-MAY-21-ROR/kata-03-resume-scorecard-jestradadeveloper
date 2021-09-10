@@ -7,12 +7,12 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Jose Maria Estrada Madera # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
+  email: j.estrada.developer@gmail.com
   phone:
   website: # No agregar http://
   linkedin: brightcoders
@@ -27,13 +27,11 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -45,72 +43,73 @@ sidebar:
 
     - item: Time Management
       link: # dejar en blanco
+    
+    - item: Problem Solving
+      link: # dejar en blanco
+
+    - item: Adaptability
+      link: # dejar en blanco
+
+    - item: Willingness to learn
+      link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a computer systems engineer with 4 years of experience in website development mostly from the hotel marketing industry.  Half of my experience is developing websites with wordpress and the other half maintaining and developing pages for hotels with the Ruby on Rails Framework. Currently I live in Puerto Vallarta, Mexico and  I like cooking a lot because I find it very relaxing. I also go to the gym regularly. I like to swim and go out on weekends to explore hidden places in the mountains.I like the discipline, and my greatest quality is that I am very persistent.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Systems Engineering
+    university: Instituto Tecnologico de Tepic
+    time: 2011 Aug - 2017
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Ruby On Rails Web Developer
+    time: 2019 - Present
+    company: Villagroup, Loreto BC
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      My position was as a ruby ​​on rails web defeater. My experience working for
+      the Villagroup hotel chain in Puerto Vallarta has consisted in the 
+      administration and deployment of websites for hotels that are developed 
+      in Ruby on Rails. I am part of a small hotel marketing team in Puerto Vallarta
+      and as new needs arise related to the website, adjustments, redesigns and 
+      additions, I must make sure that these applications are in production
+      using Amazon Web Services( EC2, S3, Route 53). 
+      I have also had to consume APIs that are specialy designed to feed the room 
+      rates for the hotels that I am responsible. Here I have also been fullstack
+      since my tasks are both in frontend and backend, plus the administration of 
+      the infrastructure in Amazon. These are some of the activities I do:
+        
+        - Redesign or development of new websites for hotels
+        - UX enhancement design
+        - Data analysis for site improvement
+        - Tests AB
+        - SEO Tecnical Performance analysis 
+        - Database Administration on MySql
+        - Deployments on EC2 Amazon with Nginx and Passenger
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+
+  - role: Fullstack Web Developer
+    time: 2017 - 2019
+    company: OH Travel Marketing, Puerto Vallarta
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      I worked for oh marketing for 2 years where I was a web developer, 
+      initially doing several projects focused on the tourism sector, mainly for
+      the design, development and deployment of hotel websites, convention centers 
+      and the tourist destination of Puerto Vallarta.
+      My functions were as a fullstack web developer since while we developed 
+      the entiry process of the creation of the websites using php for wordpress, we 
+      also had to implement everything necessary in the server infrastructure 
+      where these sites should be hosted through the aws services of amazon. 
+      Mostly my experience was developing websites with wordpress but there 
+      was a project for which we worked for a major hotel chain in the 
+      Caribbean in which we made a site using Laravel.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -123,22 +122,19 @@ skills:
 
   toolset:
     - name: Python
-      level: 20%
-
-    - name: PyTorch
       level: 40%
 
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: Wordpress
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: Javascript
+      level: 80%
 
-    - name: C/C++
-      level: 40%
+    - name: Next JS
+      level: 60%
+
+    - name: Ruby
+      level: 60%
 
 # NO MODIFICAR
 footer: >
