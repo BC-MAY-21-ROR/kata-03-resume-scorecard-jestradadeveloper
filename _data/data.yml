@@ -45,7 +45,7 @@ career-profile:
     weekends to explore hidden places in the mountains.I like the discipline,
     and my greatest quality is that I am very persistent.
 educationcomplete:
-  - degree: Ingenieria en Sistemas Computaciones
+  - degree: Computer systems engineer
     university: Instituto Tecnologico de Tepic
     time: 2011 Aug - 2017 Aug
     details: ''
@@ -79,14 +79,14 @@ experiences:
 
       the infrastructure in Amazon. These are some of the activities I do.
 
-        - Redesign and development of new websites for hotels
+        - Redesign and development of new websites for hotels with react and rails
         - UX enhancement design
         - Data analysis for site improvement
         - SEO Technical Performance analysis
         - Database Administration on MySql and PostgresSQL
         - Deployments on EC2 Amazon with Nginx and Passenger or Heroku
         - AB Testing
-  - role: Fullstack Web Developer
+  - role: PHP Fullstack Web Developer
     time: 2017 - 2019
     company: 'OH Travel Marketing, Puerto Vallarta'
     details: >
@@ -117,17 +117,21 @@ experiences:
 skills:
   title: Technical Skills
   toolset:
+    - name: Ruby on Rails
+      level: 90%  
+    - name: Javascript
+      level: 90%    
+    - name: Git
+      level: 90%         
+    - name: React
+      level: 70%
+    - name: Next Js
+      level: 60%            
     - name: Python
-      level: 40%
+      level: 50%
     - name: Wordpress
       level: 80%
-    - name: Next Js
-      level: 60%
-    - name: React
-      level: 60%
-    - name: Javascript
-      level: 80%
-    - name: Ruby on Rails
-      level: 60%
+
+
 footer: >
   BrightCoders for a brighter future!
